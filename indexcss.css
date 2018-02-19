@@ -1,0 +1,10 @@
+#MenuNavegacion
+	{
+	border: black 5px solid;
+	} 
+li
+	{
+	border: white 5px solid;
+	padding: 5px;	
+	display: inline;
+	}
